@@ -69,3 +69,7 @@ main:
         int 21h
 end main
 ```
+- [ ] Complete this course
+- [ ] Complete lab2
+- [ ] Analyze the piece of code above
+- [ ] Survive
